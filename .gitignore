@@ -1,0 +1,14 @@
+# Salesforce
+.sf/
+.forceignore
+*.log
+local.properties
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Child records for Integration Setting - stores key-value configuration parameters</description>
+    <label>Integration Setting Detail</label>
+    <pluralLabel>Integration Setting Details</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
