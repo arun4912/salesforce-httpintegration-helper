@@ -89,6 +89,7 @@ public without sharing class IntegrationUtility {
 	}
 
 	public static void logIntegrationErr(Map<String, String> paramMap, Boolean containsHCData) {
+///NEBULA LOGGER
 		String serviceName = paramMap.get('serviceName');
 
 		try {
